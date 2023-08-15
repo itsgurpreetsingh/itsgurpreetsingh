@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @itsgurpreetsingh
-- 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning : DSA | Web Dev 
 - 📫 How to reach me : gurpreet.gsr50@gmail.com
 
